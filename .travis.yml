@@ -6,6 +6,7 @@ python:
     - pypy
     - 3.4
     - 3.5
+    - pypy3
 env:
     - TOXENV=py-normal
     - TOXENV=py-uwsgi
